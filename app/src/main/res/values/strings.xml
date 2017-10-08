@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LocationActivity!</string>
+    <string name="app_name">Where Am I</string>
+    <string name="update_postion">Update Postion</string>
+    <string name="_id_locationtextview">\@+id/locationTextView</string>
+    <string name="unknown">Unknown</string>
+    <string name="get_suburb_name">Get Suburb Name</string>
+    <string name="get_location">Get Location</string>
+</resources>

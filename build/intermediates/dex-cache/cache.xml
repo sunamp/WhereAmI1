@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cdmccarthy/Dropbox/Teaching/SDMD/2016/Lectures/Week10/WhereAmI1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="77c772a61bc9d511f2b38cf3b28dcf04dfc3072d">
+        <dex dex="/Users/cdmccarthy/Dropbox/Teaching/SDMD/2016/Lectures/Week10/WhereAmI1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fb3bf4825aff120dc3f8194bf6ab8a187e776c39/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cdmccarthy/Dropbox/Teaching/SDMD/2016/Lectures/Week10/WhereAmI1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a97acbc5fc4f7a04cc1ac32cc3a1d3672d5fd645">
+        <dex dex="/Users/cdmccarthy/Dropbox/Teaching/SDMD/2016/Lectures/Week10/WhereAmI1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bdcba8e0df6f9cc41694e62bd238576e045b5414/classes.dex" />
+    </item>
+
+</items>
